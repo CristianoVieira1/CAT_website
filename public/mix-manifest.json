@@ -1,0 +1,14 @@
+{
+    "/front/assets/css/vendor.css": "/front/assets/css/vendor.css",
+    "/front/assets/css/style.css": "/front/assets/css/style.css",
+    "/front/assets/css/responsive.css": "/front/assets/css/responsive.css",
+    "/front/assets/css/all.css": "/front/assets/css/all.css",
+    "/front/assets/js/vendor.js": "/front/assets/js/vendor.js",
+    "/front/assets/js/theme.js": "/front/assets/js/theme.js",
+    "/front/assets/js/all.min.js": "/front/assets/js/all.min.js",
+    "/front/faculdade/assets/css/vendor.css": "/front/faculdade/assets/css/vendor.css",
+    "/front/faculdade/assets/css/carousel.min.css": "/front/faculdade/assets/css/carousel.min.css",
+    "/front/faculdade/assets/js/vendor.js": "/front/faculdade/assets/js/vendor.js",
+    "/front/faculdade/assets/js/detalhe-curso.js": "/front/faculdade/assets/js/detalhe-curso.js",
+    "/front/faculdade/assets/js/jquery.js": "/front/faculdade/assets/js/jquery.js"
+}
